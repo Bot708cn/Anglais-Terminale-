@@ -1,0 +1,6 @@
+{
+  "name": "ExecLingo — English for Business & Bac Terminale",
+  "description": "Plateforme professionnelle d'apprentissage de l'anglais inspirée de Duolingo, basée sur le programme officiel de Terminale MEN Madagascar adapté au monde des affaires.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
